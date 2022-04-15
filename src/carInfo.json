@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "title": "Model S",
+        "image": "model-s.jpg",
+        "path": "model-s",
+        "range": "390 mi",
+        "time": "1.99 s",
+        "topSpeed": "200 mph",
+        "peakPower": "1,020 hp"
+    },
+    {
+        "id": 1,
+        "title": "Model 3",
+        "description": "Order Online for Touchless Delivery",
+        "image": "model-3-carInfo.jpg",
+        "path": "model-3",
+        "range": "400 mi",
+        "time": "2.99 s",
+        "topSpeed": "180 mph",
+        "peakPower": "900 hp"
+    },
+    {
+        "id": 2,
+        "title": "Model X",
+        "description": "Order Online for Touchless Delivery",
+        "image": "model-x.jpg",
+        "path": "model-x",
+        "range": "350 mi",
+        "time": "1.55 s",
+        "topSpeed": "150 mph",
+        "peakPower": "1,130 hp"
+    },
+    {
+        "id": 3,
+        "title": "Model Y",
+        "description": "Order Online for Touchless Delivery",
+        "image": "model-y_R1@2.jpg",
+        "path": "model-y",
+        "range": "410 mi",
+        "time": "2.05 s",
+        "topSpeed": "190 mph",
+        "peakPower": "1,040 hp"
+    }
+]
