@@ -1,5 +1,5 @@
 import React from 'react';
-import sectionInfo from "../../sectionInfo.json";
+// import sectionInfo from "../../sectionInfo.json";
 import { Footer } from '../Footer/Footer';
 
 
